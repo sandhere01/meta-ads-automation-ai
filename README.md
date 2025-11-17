@@ -1,5 +1,11 @@
 # Automação de Anúncios: OpenAI + Meta Ads
 
+[![GitHub release](https://img.shields.io/github/v/release/dkbot7/meta-ads-automation-ai)](https://github.com/dkbot7/meta-ads-automation-ai/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-DALL--E%203-412991.svg)](https://openai.com/dall-e-3)
+[![Meta API](https://img.shields.io/badge/Meta%20API-v24.0-0668E1.svg)](https://developers.facebook.com/docs/marketing-api)
+
 Sistema completo de automação para geração de imagens com IA (DALL-E 3) e publicação de anúncios na plataforma Meta (Facebook, Instagram, WhatsApp).
 
 ## 📋 Sumário
